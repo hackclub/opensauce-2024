@@ -7,40 +7,60 @@ _Application to Exhibit_
 
 **First**
 
+[redacted]
+
 **Last**
+
+[redacted]
 
 **Age**
 
+[redacted]
+
 **Email**
+
+[redacted]
 
 **Phone Number**
 
+[redacted]
+
 **Cell phone number for emergency contact during event**
+
+[redacted]
 
 **What best describes you?**
 
-- an individual
-- a small group of friends
-- a college or high school club
-- non for profit or open source
-- a startup/company (under 5 people)
-- a company
+- [ ] an individual
+- [ ] a small group of friends
+- [ ] a college or high school club
+- [x] non for profit or open source
+- [ ] a startup/company (under 5 people)
+- [ ] a company
 
 **Brief description of you (or company)**
 _300 max characters_
 
 **Website Link**
 
+https://hackclub.com
+
 **YouTube Link**
+
+https://www.youtube.com/c/HackClubHQ
 
 **Instagram Link**
 
+https://www.instagram.com/starthackclub/
+
 **Twitter Link**
+
+https://twitter.com/hackclub
 
 **Did you exhibit at Open Sauce 2023?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 ## Booth Info
 
