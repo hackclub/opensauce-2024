@@ -66,7 +66,7 @@ https://twitter.com/hackclub
 
 **Simple one line description of booth**
 
-_How would you explain your booth in fewest words possible? (World's Largest Keyboard). 50 max characters_
+23761 highschoolers building magical projects
 
 **What are you showcasing at your booth?**
 
@@ -76,15 +76,14 @@ _Explain your booth with many words._
 
 _Attendees are touching, playing, controlling, building... (Motion capture game, giant keyboard, egg drop)_
 
-- Yes
-- No
+**- Yes**
 
 **How many people will you need to run your booth?**
 
 _(Including yourself)_
 
 - 1-3
-- 4-9
+**- 4-9**
 - 10+
 
 **Do you require internet?**
