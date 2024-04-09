@@ -41,7 +41,7 @@ _Application to Exhibit_
 **Brief description of you (or company)**
 _300 max characters_
 
-23,882 teen hackersteen hackers from around the world who code together.
+23,882 high school hackers from around the world who code together.
 
 **Website Link**
 
@@ -74,7 +74,11 @@ _How would you explain your booth in fewest words possible? (World's Largest Key
 
 _Explain your booth with many words._
 
-Hack Club is a nonprofit network of high school coding clubs and makers around the world. We will be showing a slection of highlights from the Hack Club Community, including You Ship, We Ship (YSWS) projects (various grants we give to teens), HCB our fiscal sponsorship platform, as well as presenting our clubs program. We will also be showcasing Hack Club's Day's of Service program. Days of Service is Hack Club’s initiative to support girls learning to code. By working with local youth organizations, high school Hack Club leaders run one-day coding events (a day of service) that help girls and gender minorities write their first lines of code. They might build their first ever website, video game, application and even code a robot arm to draw!
+Hack Club is a nonprofit network of high school coding clubs and teenage makers around the world. We'll bring a couple projects built by teenagers ranging from a PCB tilt detector to an open-source pen plotter.
+
+In addition to the technical projects we have, we'll pass out sticker and posers for a few of our programs:
+- Days of Service (https://daysofservice.hackclub.com/) is an initiative to support girls learning to code
+- HCB (hackclub.com/hcb) is a fiscal sponsor for high school led projects
 
 **Is your booth interactive?**
 
