@@ -121,7 +121,9 @@ _New line for each item_
 **Do you have any special requests for your booth (please explain)**
 
 **Upload photos of what you're showcasing (limit to 4 photos)**
-PHOTOS STILL NEEDED
+
+![4D39EBBB-6726-46D9-969B-3ADCF40C5538_1_105_c](https://github.com/jaspermayone/hc-opensauce-2024/assets/65788728/1426debf-dcb9-4a97-86dc-15ec3bf54b9e)
+
 
 **What categories best describe your booth?**
 
