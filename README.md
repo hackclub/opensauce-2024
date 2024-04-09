@@ -74,7 +74,7 @@ _How would you explain your booth in fewest words possible? (World's Largest Key
 
 _Explain your booth with many words._
 
-Hack Club is a nonprofit network of high school coding clubs and makers around the world. We will be showing a slection of highlights from the Hack Club Community, including You Ship, We Ship (YSWS) projects (various grants we give to teens), HCB our fiscal sponsorship platform, as well as presenting our clubs program.
+Hack Club is a nonprofit network of high school coding clubs and makers around the world. We will be showing a slection of highlights from the Hack Club Community, including You Ship, We Ship (YSWS) projects (various grants we give to teens), HCB our fiscal sponsorship platform, as well as presenting our clubs program. We will also be showcasing Hack Club's Day's of Service program. Days of Service is Hack Club’s initiative to support girls learning to code. By working with local youth organizations, high school Hack Club leaders run one-day coding events (a day of service) that help girls and gender minorities write their first lines of code. They might build their first ever website, video game, application and even code a robot arm to draw!
 
 **Is your booth interactive?**
 
