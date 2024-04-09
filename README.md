@@ -121,7 +121,8 @@ _New line for each item_
 **Do you have any special requests for your booth (please explain)**
 
 **Upload photos of what you're showcasing (limit to 4 photos)**
-HIGH RES PHOTOS IN ROOT OF REPO UNDER PHOTO FOLDER
+![](https://cloud-f04mirsa7-hack-club-bot.vercel.app/0assemble.jpg)
+![](https://cloud-f04mirsa7-hack-club-bot.vercel.app/1daysofservice.jpeg)
 
 
 **What categories best describe your booth?**
