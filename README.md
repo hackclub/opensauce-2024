@@ -41,6 +41,8 @@ _Application to Exhibit_
 **Brief description of you (or company)**
 _300 max characters_
 
+23,882 high school hackers from around the world who code together.
+
 **Website Link**
 
 https://hackclub.com
@@ -72,39 +74,60 @@ _How would you explain your booth in fewest words possible? (World's Largest Key
 
 _Explain your booth with many words._
 
+Hack Club is a nonprofit network of high school coding clubs and teenage makers around the world. We'll bring a couple projects built by teenagers ranging from a PCB tilt detector to an open-source pen plotter.
+
+In addition to the technical projects we have, we'll pass out sticker and posers for a few of our programs:
+- Days of Service (https://daysofservice.hackclub.com/) is an initiative to support girls learning to code
+- HCB (hackclub.com/hcb) is a fiscal sponsor for high school led projects
+
 **Is your booth interactive?**
 
 _Attendees are touching, playing, controlling, building... (Motion capture game, giant keyboard, egg drop)_
 
-- Yes
-- No
+- [x] Yes 
+- [ ] No
 
 **How many people will you need to run your booth?**
 
 _(Including yourself)_
 
-- 1-3
-- 4-9
-- 10+
+- [ ] 1-3
+- [x] 4-9 
+- [ ] 10+ *(OR THIS ONE)*
 
 **Do you require internet?**
 
+- No
+- [ ] I'm Afraid to say no
+- [ ] My exibit would be cooler with it
+- [x] My exibit will not work without it **(THIS ONE)**
+
 **Do you plan to sell anything?**
+- [ ] Yes
+- [x] No
 
 **Do you need a booth bigger than 8ft x 8ft?**
+- [ ] Yes
+- [x] No 
 
 **List things you need to plug into an electrical wall outlet**
+
+- Monitors (x4)
+- at least 2-3 laptops
 
 _New line for each item_
 
 **Do you have 220v, or 3-phase power requirements?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Do you have any special requests for your booth (please explain)**
 
 **Upload photos of what you're showcasing (limit to 4 photos)**
+![](https://cloud-f04mirsa7-hack-club-bot.vercel.app/0assemble.jpg)
+![](https://cloud-f04mirsa7-hack-club-bot.vercel.app/1daysofservice.jpeg)
+
 
 **What categories best describe your booth?**
 
@@ -117,16 +140,16 @@ _Please limit to 3 selections_
 - [ ] Big
 - [ ] Collection
 - [ ] Cosplay
-- [ ] Electronics
+- [x] Electronics
 - [ ] Flight
 - [ ] Food
 - [ ] Game
 - [ ] High Voltage
-- [ ] Interactive
+- [x] Interactive
 - [ ] Makerspace
 - [ ] Manufacturing
 - [ ] Music
-- [ ] Open Source
+- [x] Open Source
 - [ ] Photography
 - [ ] RC
 - [ ] Robot
@@ -143,30 +166,30 @@ _Please limit to 3 selections_
 
 **Will you be showing anything potentially dangerous?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit need an air compressor?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Will you require a standoff distance from spectators?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Will you be using lithium polymer batteries?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit contain flashing lights?**
 
 _Flashing lights 5 to 30 Hz can trigger epileptic seizures_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit use fuel?**
 
@@ -179,75 +202,76 @@ _Gasoline, wood, propane, coal, etc_
 
 _Water, oil, pee_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit contain hydraulics?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit contain pneumatics?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit contain fire?**
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit contain lasers?**
 
 _Laser pointer, laser cutter_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit store large amounts of energy? (kinetic or potential)**
 
 _Flywheels, air tank, batteries, capacitor bank, springs, etc...._
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Is your exhibit loud?**
 
 _Music, engine, sound machine, high voltage, external speakers_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit smell?**
 
 _Fumes, food, fragrance_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Is your exhibit over 6 feet tall?**
 
 _1.8288 meters_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Does your exhibit emit radio waves? (NOT small wifi or bluetooth modules)**
 
 _You'll know if this question is for you._
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
+
 
 **Does your exhibit emit ionizing radiation?**
 
 _Examples: Cloud chamber or x-ray machine_
 
-- Yes
-- No
+- [ ] Yes
+- [x] No
 
 **Are you a robot?**
 
 _Provided by reCAPTCHA_
 
-- [ ] I'm not a robot
+- [x] I'm not a robot
